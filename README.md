@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou Reici Eduardo Testa Pandini
 
 🎓 Estudante da Aprendizagem Industrial em progamador de sistemas de informaçao
-    Estudante da Aprendizagem Industrial em tecnico em desenvolvimento sistemas de informaçao
+    
+🎓  Estudante da Aprendizagem Industrial em tecnico em desenvolvimento sistemas de informaçao
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
