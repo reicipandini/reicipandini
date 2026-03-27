@@ -3,7 +3,7 @@
 
 🎓 Estudante da Aprendizagem Industrial em desenvolvimento sistemas de informaçao ( SENAI ) contratado pela SEARA ALIMENTOS
 
-🎓 Wstudante  do 2° ano da escola estadual EEB cecilia vivan ( salto veloso, SC ) 
+🎓 Estudante  do 2° ano da escola estadual EEB cecilia vivan ( salto veloso, SC ) 
 
 
 
