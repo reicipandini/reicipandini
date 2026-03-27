@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Reici Eduardo Testa Pandini
-🎓 Estudante de tecnico Industrial em progamador de sistemas ( SENAI )
+🎓 Estudante de tecnico Industrial em desenvolvimento  de sistemas ( SENAI )
 
 🎓 Estudante da Aprendizagem Industrial em desenvolvimento sistemas de informaçao ( SENAI ) contratado pela SEARA ALIMENTOS
 
