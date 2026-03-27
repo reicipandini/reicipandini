@@ -5,6 +5,9 @@
 
 🎓 Estudante  do 2° ano da escola estadual EEB cecilia vivan ( salto veloso, SC ) 
 
+📜 Cursos de Curta Duração
+
+🪛 mecanica automotiva. – [sebratep] (2025)
 
 
 💻 Interessado em tecnologia, programação, conhecimento industrial e inovação  
