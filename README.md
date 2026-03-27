@@ -10,6 +10,8 @@
 🪛 mecanica automotiva. – [sebratep] (2025)
 
 
+
+
 💻 Interessado em tecnologia, programação, conhecimento industrial e inovação  
 
 ---
