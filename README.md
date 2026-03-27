@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Reici Eduardo Testa Pandini
 
-🎓 Estudante da Aprendizagem Industrial em progamador de sistemas de informaçao
+🎓 Estudante de curso tecnico Industrial em progamador de sistemas
     
-🎓  Estudante da Aprendizagem Industrial em tecnico em desenvolvimento sistemas de informaçao
+🎓 Estudante da Aprendizagem Industrial em tecnico em desenvolvimento sistemas de informaçao
+
+🎓 estudante da escola estadual EEB cecilia vivan
 
 💻 Interessado em tecnologia, programação e inovação  
 
@@ -10,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
+Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, sou mais focado em harware mas to em aprendizagem em desenvolvimento web e ferramentas digitais.  
 Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contribuam para minha formação profissional.
 
 ---
@@ -46,6 +48,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 📧 Email: reici_pandini@estudante.sesisenai.org.br  
 💼 GitHub: https://github.com/reicipandini
+    instagram: https://instagram.com/reiicipandinii
 
 
 
