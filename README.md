@@ -53,7 +53,9 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 ## 📫 Contato
 
 📧 Email: reici_pandini@estudante.sesisenai.org.br  
+
 💼 GitHub: https://github.com/reicipandini
+
 📱 instagram: https://instagram.com/reiicipandinii
 
 
