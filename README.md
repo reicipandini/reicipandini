@@ -1,8 +1,10 @@
-# 🚀 Reici Eduardo Testa Pandini
-
 <p align="center">
   <code>&lt;/&gt;</code> &nbsp; <b>Java</b> &bull; <b>C++</b> &bull; <b>Python</b> &bull; <b>JavaScript</b> &bull; <b>SQL</b> &bull; <b>IoT</b> &nbsp; <code>&lt;/&gt;</code>
 </p>
+
+
+# 🚀 Reici Eduardo Testa Pandini
+
 
 🎓 **Estudante de Técnico em Desenvolvimento de Sistemas** (SENAI) | *(2026-2027)*  
 🎓 **Aprendizagem Industrial em Desenvolvimento de Sistemas de Informação** (SENAI / Contratado pela **Seara Alimentos**) | *(2026)*  
