@@ -48,7 +48,7 @@ Estudante apaixonado por tecnologia, programação e inovação industrial. Poss
 
 ## 🚀 Projetos em Destaque
 
-📌 **Projeto 1 – Flappy Tech Burd:** [Acessar Link](https://reicipandini.github.io/flappy-tech-burd/)  
+📌 **Projeto 1 – Gestao treinamentos nova era** [Acessar Link](https://reicipandini.github.io/gestao-treinamentos-novaera-alimentos/index.html)  
 📌 **Projeto 2 – Sistema de Reservas:** [Acessar Link](https://reicipandini.github.io/Sistema_Reservas/)  
 📌 **Projeto 3 – Tech History:** [Acessar Link](https://reicipandini.github.io/techhistory/)  
 
