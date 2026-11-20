@@ -39,9 +39,8 @@ Estudante apaixonado por tecnologia, programação e inovação industrial. Poss
 ## 📚 O que estou estudando & Praticando
 
 🧠 **Lógica de Programação** e Estruturas de Dados  
-☕ **Desenvolvimento em Java & Orientação a Objetos  
-🔌 **Eletrônica e IoT:** ESP32, Arduino e Raspberry Pi (Prototipagem e Automação)  
-🐍 Automação e Scripting em Python  
+☕ **Desenvolvimento em Java** & Orientação a Objetos  
+🔌 **Eletrônica e IoT:** ESP32, Arduino e Raspberry Pi (Prototipagem e Automação)    
 🌐 **Desenvolvimento Web** (HTML, CSS, JavaScript)  
 🗄️ **Banco de Dados** (SQL, Firebase, MariaDB)  
 
