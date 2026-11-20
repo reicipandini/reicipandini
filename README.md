@@ -47,7 +47,7 @@ Estudante apaixonado por tecnologia, programação e inovação industrial. Poss
 
 ## 🚀 Projetos em Destaque
 
-📌 **Projeto 1 – Gestão de Treinamentos Nova Era:** [Acessar Link](https://github.com/reicipandini)  
+📌 **Projeto 1 – Gestão de Treinamentos Nova Era:** [Acessar Link](https://reicipandini.github.io/gestao-treinamentos-novaera-alimentos/login.html)  
 📌 **Projeto 2 – Sistema de Reservas:** [Acessar Link](https://reicipandini.github.io/Sistema_Reservas/)  
 📌 **Projeto 3 – Tech History:** [Acessar Link](https://reicipandini.github.io/techhistory/)  
 
