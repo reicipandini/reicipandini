@@ -9,6 +9,8 @@
 
 🪛 mecanica automotiva. – [sebratep] (2025)
 
+💻 IA na pratica - [SCTEC] (2026)
+
 
 
 
