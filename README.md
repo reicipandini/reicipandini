@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,py,js,php,mysql,html,css,arduino,raspberrypi" alt="Minhas Tecnologias" />
-</p>
 
 # 🚀 Reici Eduardo Testa Pandini
 
@@ -50,7 +47,7 @@ Estudante apaixonado por tecnologia, programação e inovação industrial. Poss
 
 ## 🚀 Projetos em Destaque
 
-📌 **Projeto 1 – Gestão de Treinamentos Nova Era:** [Acessar Link](https://github.com/reicipandini) *(Substitua pelo link direto do projeto)*  
+📌 **Projeto 1 – Gestão de Treinamentos Nova Era:** [Acessar Link](https://github.com/reicipandini)  
 📌 **Projeto 2 – Sistema de Reservas:** [Acessar Link](https://reicipandini.github.io/Sistema_Reservas/)  
 📌 **Projeto 3 – Tech History:** [Acessar Link](https://reicipandini.github.io/techhistory/)  
 
