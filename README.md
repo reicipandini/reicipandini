@@ -42,11 +42,12 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 ## 📚 O que estou estudando
 
-🧠 Lógica de Programação  
-🐍 Programação em Python  
-🌐 Desenvolvimento Web  
-📊 Ferramentas Digitais  
-
+🧠 Lógica de Programação e Estruturas de Dados
+☕ Desenvolvimento em Java & Orientação a Objetos
+🐍 Automação e Scripting em Python
+🌐 Desenvolvimento Web (HTML, CSS, JavaScript)
+🗄️ Banco de Dados (SQL, Firebase, MARIADB)
+📊 Ferramentas Digitais e Produtividade
 ---
 
 ## 🚀 Projetos
