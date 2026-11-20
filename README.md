@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Reici Eduardo Testa Pandini
+#  Reici Eduardo Testa Pandini!
 🎓 Estudante de tecnico em desenvolvimento  de sistemas ( SENAI )  (2026-2027)
 
 🎓 Estudante da Aprendizagem Industrial em desenvolvimento sistemas de informaçao ( SENAI ) contratado pela SEARA ALIMENTOS (2026)
