@@ -56,7 +56,7 @@ Estudante apaixonado por tecnologia, programação e inovação industrial. Poss
 📧 **Email:** reici_pandini@estudante.sesisenai.org.br  
 💼 **GitHub:** [reicipandini](https://github.com/reicipandini)  
 📱 **Instagram:** [@reiicipandinii](https://instagram.com/reiicipandinii)  
-🧑‍🏫 **Whats-app** +55 (49) 92002-2941
+🧑‍🏫 **Whatsapp** +55 (49) 92002-2941
 
 ---
 
