@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,py,js,php,mysql,html,css,arduino,raspberrypi" alt="Minhas Tecnologias" />
-</p>
 
 # 🚀 Reici Eduardo Testa Pandini
 
@@ -65,5 +62,7 @@ Estudante apaixonado por tecnologia, programação e inovação industrial. Poss
 📱 **Instagram:** [@reiicipandinii](https://instagram.com/reiicipandinii)
 
 ---
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,py,js,php,mysql,html,css,arduino,raspberrypi" alt="Minhas Tecnologias" />
+</p>
 ⭐ Seja muito bem-vindo! Obrigado pela visita.
