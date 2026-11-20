@@ -1,7 +1,7 @@
 # 🚀 Reici Eduardo Testa Pandini
 
 <p align="center">
-  <img src="assets/avatar.jpg" alt="Reici Pandini" width="150" height="150" style="border-radius: 50%; border: 2px solid #00d4ff;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*CsJ05WEGfunYMLGfsT2sXA.gif" alt="Coding Banner" width="100%">
 </p>
 
 🎓 **Estudante de Técnico em Desenvolvimento de Sistemas** (SENAI) | *(2026-2027)*  
