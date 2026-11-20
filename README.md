@@ -1,7 +1,6 @@
 <p align="center">
-  <code>&lt;/&gt;</code> &nbsp; <b>Java</b> &bull; <b>C++</b> &bull; <b>Python</b> &bull; <b>JavaScript</b> &bull; <b>SQL</b> &bull; <b>IoT</b> &nbsp; <code>&lt;/&gt;</code>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,py,js,php,mysql,html,css,arduino,raspberrypi" alt="Minhas Tecnologias" />
 </p>
-
 
 # 🚀 Reici Eduardo Testa Pandini
 
