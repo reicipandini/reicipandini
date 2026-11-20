@@ -72,4 +72,4 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Seja bem vindo sempre!!, obrigado pela visita!
