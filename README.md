@@ -45,7 +45,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 📌 Projeto 1 – [https://reicipandini.github.io/flappy-tech-burd/]  
-📌 Projeto 2 – [https://reicipandini.github.io/jogo-batalha-naval/]  
+📌 Projeto 2 – [https://reicipandini.github.io/Sistema_Reservas/]  
 📌 Projeto 3 – [https://reicipandini.github.io/techhistory/]  
 
 ---
