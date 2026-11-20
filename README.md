@@ -1,7 +1,13 @@
 # 🚀 Reici Eduardo Testa Pandini
 
+# 🚀 Reici Eduardo Testa Pandini
+
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*CsJ05WEGfunYMLGfsT2sXA.gif" alt="Coding Banner" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/reicipandini" alt="Reici Pandini" width="140" height="140" style="border-radius: 50%;">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=4,11,20&height=100&section=header&text=Desenvolvedor%20&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
 </p>
 
 🎓 **Estudante de Técnico em Desenvolvimento de Sistemas** (SENAI) | *(2026-2027)*  
