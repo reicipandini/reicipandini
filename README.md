@@ -62,7 +62,8 @@ Estudante apaixonado por tecnologia, programação e inovação industrial. Poss
 📱 **Instagram:** [@reiicipandinii](https://instagram.com/reiicipandinii)
 
 ---
+---
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,py,js,php,mysql,html,css,arduino,raspberrypi" alt="Minhas Tecnologias" />
+  ⭐ <b>Obrigado por passar por aqui!</b> Se quiser trocar ideias sobre programação, hardware ou projetos, é só chamar. Até a próxima! 👋
 </p>
-                             ⭐ Obrigado pela visita, volte sempre!!
